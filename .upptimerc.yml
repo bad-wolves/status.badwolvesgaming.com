@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.badwolves.games
   # baseUrl: /your-repo-name
-  logoUrl: https://github.com/bad-wolves/status.badwolves.games/blob/8338e618964e1f5214c974adae809ebbab6ea660/assets/bad-wolves.png
+  logoUrl: https://raw.githubusercontent.com/bad-wolves/status.badwolves.games/master/assets/bad-wolves.svg
   name: Bad Wolves Gaming
   introTitle: "**Bad Wolves Gaming** Systems Status Page"
   introMessage: A system status monitor for Bad Wolves Gaming.
