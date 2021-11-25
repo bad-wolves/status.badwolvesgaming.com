@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/01.node.badwolves.games",
     "slug": "node-01",
     "status": "up",
-    "uptime": "1.55%",
-    "uptimeDay": "1.55%",
-    "uptimeWeek": "1.55%",
-    "uptimeMonth": "1.55%",
-    "uptimeYear": "1.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 449,
     "timeDay": 449,
     "timeWeek": 449,
     "timeMonth": 449,
     "timeYear": 449,
-    "dailyMinutesDown": {
-      "2021-11-25": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
