@@ -5,6 +5,8 @@ repo: status.badwolves.games # The name of this repository
 sites:
   - name: Pterodactyl Panel
     url: https://panel.badwolves.games
+  - name: Node 01
+    url: https://01.node.badwolves.games:50181
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
