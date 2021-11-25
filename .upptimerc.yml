@@ -29,6 +29,8 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
+  favicon: https://raw.githubusercontent.com/bad-wolves/status.badwolves.games/master/assets/bad-wolves.png
+  faviconSvg: https://raw.githubusercontent.com/bad-wolves/status.badwolves.games/master/assets/bad-wolves.svg
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
