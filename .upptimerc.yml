@@ -7,6 +7,8 @@ sites:
     url: https://panel.badwolves.games
   - name: Node 01
     url: https://01.node.badwolves.games:50181
+    expectedStatusCodes:
+      - 401
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
