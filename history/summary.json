@@ -22,19 +22,19 @@
     "url": "https://01.node.badwolves.games:50181",
     "icon": "https://favicons.githubusercontent.com/01.node.badwolves.games",
     "slug": "pterodactyl-node-01",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 366,
-    "timeWeek": 398,
-    "timeMonth": 413,
-    "timeYear": 413,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 400,
+    "timeDay": 250,
+    "timeWeek": 365,
+    "timeMonth": 400,
+    "timeYear": 400,
     "dailyMinutesDown": {
-      "2021-12-11": 1
+      "2021-12-11": 53
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://02.node.badwolves.games:50182",
     "icon": "https://favicons.githubusercontent.com/02.node.badwolves.games",
     "slug": "pterodactyl-node-02",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 361,
-    "timeWeek": 372,
-    "timeMonth": 326,
-    "timeYear": 326,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 318,
+    "timeDay": 261,
+    "timeWeek": 345,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {
-      "2021-12-11": 0
+      "2021-12-11": 52
     }
   }
 ]
