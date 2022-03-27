@@ -25,8 +25,7 @@ status-website:
       href: /
     - title: Home
       href: https://www.badwolvesgaming.com
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+
   theme: dark
   favicon: https://raw.githubusercontent.com/bad-wolves/status.badwolves.games/master/assets/bad-wolves.png
   faviconSvg: https://raw.githubusercontent.com/bad-wolves/status.badwolves.games/master/assets/bad-wolves.svg
