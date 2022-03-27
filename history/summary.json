@@ -1,23 +1,38 @@
 [
   {
-    "name": "Pterodactyl - Panel",
-    "url": "https://panel.badwolves.games",
-    "icon": "https://favicons.githubusercontent.com/panel.badwolves.games",
-    "slug": "pterodactyl-panel",
+    "name": "Website",
+    "url": "https://www.badwolvesgaming.com",
+    "icon": "https://favicons.githubusercontent.com/www.badwolvesgaming.com",
+    "slug": "website",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 756,
-    "timeDay": 730,
-    "timeWeek": 704,
-    "timeMonth": 608,
-    "timeYear": 756,
-    "dailyMinutesDown": {
-      "2022-03-12": 7,
-      "2021-12-20": 22
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 140,
+    "timeDay": 140,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Pterodactyl",
+    "url": "https://panel.badwolves.games",
+    "icon": "https://favicons.githubusercontent.com/panel.badwolves.games",
+    "slug": "pterodactyl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 598,
+    "timeDay": 598,
+    "timeWeek": 598,
+    "timeMonth": 598,
+    "timeYear": 598,
+    "dailyMinutesDown": {}
   }
 ]
