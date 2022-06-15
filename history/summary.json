@@ -22,19 +22,19 @@
     "url": "https://panel.badwolves.games",
     "icon": "https://favicons.githubusercontent.com/panel.badwolves.games",
     "slug": "pterodactyl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 395,
-    "timeWeek": 539,
-    "timeMonth": 654,
-    "timeYear": 672,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 668,
+    "timeDay": 376,
+    "timeWeek": 516,
+    "timeMonth": 644,
+    "timeYear": 668,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 14
     }
   }
 ]
